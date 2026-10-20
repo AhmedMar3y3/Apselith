@@ -1,0 +1,79 @@
+{
+  "utc": "2026-10-19T23:21:19.000Z",
+  "reference": {
+    "name": "iss",
+    "id": 25544,
+    "latitude": 41.337209370281,
+    "longitude": 159.97376728787,
+    "altitude": 427.87572264183,
+    "velocity": 27567.573117441,
+    "visibility": "daylight",
+    "footprint": 4547.3165133209,
+    "timestamp": 1792452079,
+    "daynum": 2461333.4731366,
+    "solar_lat": -10.253109445258,
+    "solar_lon": 185.88810502076,
+    "units": "kilometers"
+  },
+  "referenceTle": {
+    "requested_timestamp": 1792452090,
+    "tle_timestamp": 1792349839,
+    "id": "25544",
+    "name": "iss",
+    "header": "ISS (ZARYA)",
+    "line1": "1 25544U 98067A   26291.78980200  .00007771  00000+0  14938-3 0  9993",
+    "line2": "2 25544  51.6325  48.4339 0006764 280.4294  79.5932 15.48929442590914"
+  },
+  "heavensAboveLines": [
+    "1 25544U          26292.43498097 +.00000000 +00000-0 +13878-3 0 00008",
+    "2 25544  51.6326  45.2419 0006754 282.9887  77.0347 15.48939196    09"
+  ],
+  "apselithElements": {
+    "OBJECT_NAME": "ISS (ZARYA)",
+    "OBJECT_ID": "1998-067A",
+    "EPOCH": "2026-10-19T10:26:22.356672",
+    "MEAN_MOTION": 15.48939196,
+    "ECCENTRICITY": 0.0006754,
+    "INCLINATION": 51.6326,
+    "RA_OF_ASC_NODE": 45.2419,
+    "ARG_OF_PERICENTER": 282.9887,
+    "MEAN_ANOMALY": 77.0347,
+    "EPHEMERIS_TYPE": 0,
+    "CLASSIFICATION_TYPE": "U",
+    "NORAD_CAT_ID": 25544,
+    "ELEMENT_SET_NO": 999,
+    "REV_AT_EPOCH": 59101,
+    "BSTAR": 0.00013878,
+    "MEAN_MOTION_DOT": 0.00007189,
+    "MEAN_MOTION_DDOT": 0
+  },
+  "candidates": {
+    "apselith": {
+      "latitude": 41.33904364333724,
+      "longitude": 159.97152883239502,
+      "altitude": 427.87787292956637,
+      "speed": 7.657657527504903,
+      "groundSeparationKm": 0.2766334296420286,
+      "altitudeDifferenceKm": 0.002150287736355949,
+      "speedDifferenceKmS": -0.0000016717842630242785
+    },
+    "whereIssOwnTle": {
+      "latitude": 41.33720994181415,
+      "longitude": 159.97376509203633,
+      "altitude": 427.87381266083594,
+      "speed": 7.657659202459737,
+      "groundSeparationKm": 0.00019403095091323768,
+      "altitudeDifferenceKm": -0.0019099809940712476,
+      "speedDifferenceKmS": 3.1705704728324235e-9
+    },
+    "heavensAboveTle": {
+      "latitude": 41.33903629090173,
+      "longitude": 159.97154305541645,
+      "altitude": 427.87787102414677,
+      "speed": 7.65765752798034,
+      "groundSeparationKm": 0.2752286439007662,
+      "altitudeDifferenceKm": 0.002148382316761399,
+      "speedDifferenceKmS": -0.0000016713088264452836
+    }
+  }
+}

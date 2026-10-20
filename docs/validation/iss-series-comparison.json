@@ -1,0 +1,137 @@
+[
+  {
+    "utc": "2026-10-19T23:11:19.000Z",
+    "reference": {
+      "name": "iss",
+      "id": 25544,
+      "latitude": 51.412035431565,
+      "longitude": 106.96047050714,
+      "altitude": 430.07129262819,
+      "velocity": 27566.931923222,
+      "visibility": "daylight",
+      "footprint": 4558.3508225254,
+      "timestamp": 1792451479,
+      "daynum": 2461333.4661921,
+      "solar_lat": -10.250615230689,
+      "solar_lon": 188.38841213082,
+      "units": "kilometers"
+    },
+    "apselith": {
+      "latitude": 51.411734112262614,
+      "longitude": 106.95657784173501,
+      "altitude": 430.0631328784648,
+      "speed": 7.657490573047469
+    },
+    "apselithGroundSeparationKm": 0.2720439162474415,
+    "sameTleGroundSeparationKm": 0.0002334272906859079,
+    "altitudeDifferenceKm": -0.008159749725223264
+  },
+  {
+    "utc": "2026-10-19T23:16:19.000Z",
+    "reference": {
+      "name": "iss",
+      "id": 25544,
+      "latitude": 49.828466784366,
+      "longitude": 136.2410086578,
+      "altitude": 430.00373249387,
+      "velocity": 27565.923829325,
+      "visibility": "daylight",
+      "footprint": 4558.0117718331,
+      "timestamp": 1792451779,
+      "daynum": 2461333.4696644,
+      "solar_lat": -10.251862353174,
+      "solar_lon": 187.13825847591,
+      "units": "kilometers"
+    },
+    "apselith": {
+      "latitude": 49.829442971553284,
+      "longitude": 136.2375452403159,
+      "altitude": 430.0004598988053,
+      "speed": 7.6572053319198154
+    },
+    "apselithGroundSeparationKm": 0.2711054077250423,
+    "sameTleGroundSeparationKm": 0.00016106806003273334,
+    "altitudeDifferenceKm": -0.0032725950647432
+  },
+  {
+    "utc": "2026-10-19T23:21:19.000Z",
+    "reference": {
+      "name": "iss",
+      "id": 25544,
+      "latitude": 41.337209370281,
+      "longitude": 159.97376728787,
+      "altitude": 427.87572264183,
+      "velocity": 27567.573117441,
+      "visibility": "daylight",
+      "footprint": 4547.3165133209,
+      "timestamp": 1792452079,
+      "daynum": 2461333.4731366,
+      "solar_lat": -10.253109445258,
+      "solar_lon": 185.88810502076,
+      "units": "kilometers"
+    },
+    "apselith": {
+      "latitude": 41.33904364333724,
+      "longitude": 159.97152883239502,
+      "altitude": 427.87787292956637,
+      "speed": 7.657657527504903
+    },
+    "apselithGroundSeparationKm": 0.2766334296420286,
+    "sameTleGroundSeparationKm": 0.00019403095091323768,
+    "altitudeDifferenceKm": 0.002150287736355949
+  },
+  {
+    "utc": "2026-10-19T23:26:19.000Z",
+    "reference": {
+      "name": "iss",
+      "id": 25544,
+      "latitude": 28.813334358903,
+      "longitude": 176.87358232819,
+      "altitude": 424.79806984898,
+      "velocity": 27570.420579337,
+      "visibility": "daylight",
+      "footprint": 4531.7937751323,
+      "timestamp": 1792452379,
+      "daynum": 2461333.4766088,
+      "solar_lat": -10.254356507279,
+      "solar_lon": 184.63795143007,
+      "units": "kilometers"
+    },
+    "apselith": {
+      "latitude": 28.815608516032327,
+      "longitude": 176.8722073213233,
+      "altitude": 424.8054948695517,
+      "speed": 7.658442527374787
+    },
+    "apselithGroundSeparationKm": 0.286167400608766,
+    "sameTleGroundSeparationKm": 0.00027577500429616994,
+    "altitudeDifferenceKm": 0.0074250205717021345
+  },
+  {
+    "utc": "2026-10-19T23:31:19.000Z",
+    "reference": {
+      "name": "iss",
+      "id": 25544,
+      "latitude": 14.37531915456,
+      "longitude": -170.37708154717,
+      "altitude": 422.32537305947,
+      "velocity": 27572.398085103,
+      "visibility": "daylight",
+      "footprint": 4519.2750447261,
+      "timestamp": 1792452679,
+      "daynum": 2461333.480081,
+      "solar_lat": -10.255603538892,
+      "solar_lon": 183.38779803916,
+      "units": "kilometers"
+    },
+    "apselith": {
+      "latitude": 14.377812417041435,
+      "longitude": -170.3780618284878,
+      "altitude": 422.3373282359007,
+      "speed": 7.658986530411524
+    },
+    "apselithGroundSeparationKm": 0.2966647890440929,
+    "sameTleGroundSeparationKm": 0.00030871169300680784,
+    "altitudeDifferenceKm": 0.011955176430717529
+  }
+]
